@@ -1,0 +1,60 @@
+arkaplan-rengi {
+  background-color: #9ba4b4;
+}
+
+.kutu {
+  width: 80%;
+  height: 280px;
+  background-color: #8db596;
+  color: #000000;
+  margin-left: 50px;
+  margin-top: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.kut1 {
+  width: 80%;
+  height: 280px;
+  background-color: #d2f5e3;
+  color: #000000;
+  margin-left: 50px;
+  margin-top: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.kutu2 {
+  width: 80%;
+  height: 295px;
+  background-color: #d9e4dd;
+  color: #000000;
+  margin-left: 50px;
+  margin-top: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+body {
+  margin: 0 auto;
+  background: pink;
+}
+
+.container {
+  margin: 0 auto;
+  width: 960px;
+  background: #47D1FF;
+}
+
+.kut3 {
+  width: 65%;
+  height: 80%;
+  background-color: #d2d3c9;
+  margin-left: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: auto;
+  padding: 30px;
+  padding-left: 100px;
+  padding-right: 50px;
+}

@@ -1,0 +1,130 @@
+
+body{
+  background-color: #FAD961;
+ font-family: 'Poppins', sans-serif;
+ background-image:url("/Users/mac/Desktop/web Development/ortakproje1/resimler/speaker.png");
+ background-size: 43%;
+ background-repeat: no-repeat;
+ background-position: right bottom;
+ background-attachment: fixed;
+ position: relative;
+ height: 80%;
+ width: 80%;
+
+
+
+}
+.logo{
+  position:absolute;
+  margin-bottom: 0.8rem;
+  float: right;
+  font-size: 1.5rem;
+}
+.row i{
+  position: absolute;
+  margin-bottom: 1.5rem;
+
+}
+
+.user-foto{
+  position: absolute;
+  margin-bottom: 3rem;
+  margin-left: 23rem;
+
+}
+.user{
+  position: absolute;
+  margin-bottom: 2.5rem;
+  margin-left: 27rem;
+  font-weight:lighter;
+
+}
+.row nav{
+  position: absolute;
+  margin-bottom: 3.5rem;
+  margin-left: 30rem;
+}
+.b-speaker {
+  font-size: 4rem;
+  top: 4rem;
+}
+
+/*  Header bitis */
+
+/*.banner .container-fluid .row {
+  position:relative;
+  font-size: 0.8rem;
+  margin-right: 10rem;
+  padding-left: 2rem;
+  border: 2px solid #1B1B1B;
+  border-radius: 50px;
+  height:  1.6rem;
+  margin: 0 auto;
+
+}
+*/
+.banner .container-fluid .row {
+  border: 2.3px solid #1B1B1B;
+  border-radius: 50px;
+  font-family: 'Poppins', sans-serif;
+  width: 500px;
+  height: 52px;
+  font-size: 0.8rem;
+  position: relative;
+  margin: 0 auto;
+  top: 3px;
+  z-index: 1;
+}
+
+.pledged{
+  border-left: 0.2px solid #1B1B1B;
+
+}
+
+.banner .row i {
+  font-size: 0.8rem;
+
+
+}
+
+
+
+.cart1{
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  font-weight: bolder;
+}
+.cart2{
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  font-weight: bolder;
+
+}
+.card-title,
+.card-text{
+  margin-left: 100px;
+  font-size: 0.8rem;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 20px;
+}
+
+
+
+
+.icons{
+  position:relative;
+  margin-left: 90%;
+  color: white !important;
+  display: flex;
+  align-items:center;
+  justify-content:flex-start;
+}
+.container-fluid a{
+bottom: 15rem;
+}
+.footer row{
+  margin-bottom: 20rem;
+
+}

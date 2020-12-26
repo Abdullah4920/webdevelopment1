@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Eduguide</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="js/bootstrap.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <!-- ustbolum bölümü - baslagic -->
+  <div class="Navbar-kisim sticky-top">
+    <div class="container-fluid r-l-padding bg-dark text-light">
+      <nav class="navbar navbar-expand-lg navbar navbar bg-dark">
+          <h1>Eduguide</h1>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item z">
+              <a class="nav-link hover" href="#">HOME <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link hover" href="abont1">ABOUT</a>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link hover dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                CATEGORIES
+              </a>
+              <div class="dropdown-menu " aria-labelledby="navbarDropdown">
+
+                <a class="dropdown-item " href="#">Kindergarten</a>
+                <a class="dropdown-item" href="#">Primary school</a>
+                <a class="dropdown-item" href="#">Secondary school</a>
+                <a class="dropdown-item" href="#">High school</a>
+                <div class="dropdown-divider"></div>
+
+              </div>
+            <li class="nav-item">
+              <a class="nav-link hover" href="#">CONTACT</a>
+            </li>
+
+        </div>
+        <form class="form-inline my-2 my-lg-2">
+          <input class="form-control mr-sm-1" type="search" placeholder="" aria-label="">
+          <button class="btn btn-dark my-2 my-sm-0 " type="">Search</button>
+        </form>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+  <!-- ustbolum bölümü - bitisi -->

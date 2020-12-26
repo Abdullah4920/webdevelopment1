@@ -1,0 +1,144 @@
+
+
+.container-fluid{
+  background-color: #1ABC9C;
+
+
+}
+
+.container-fluid ul{
+  font-size: 1rem;
+  margin-left: 25rem;
+}
+.container-fluid ul a:hover{
+  background-color: #1ABC9C;
+  border-radius: 5rem;
+}
+.karikatur img{
+  height: 14rem;
+  margin-left: 35%;
+  margin-top: 5rem;
+  position: relative;
+  z-index: 1;
+  border-radius: 50%;
+  background-color: #2C3E50;
+}
+.TECH h1{
+  position:relative;
+  margin-top: 5rem;
+  margin-left: 4rem;
+  font-size: 3rem;
+  overflow: hidden;
+}
+.TECH h6{
+  margin-left: 10rem;
+}
+.divider-bolum {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divider-bolum .divider-bolum-line {
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: white;
+  border-radius: 1rem;
+  border-color: white !important;
+  margin-left: 2rem;
+}
+.divider-bolum2 {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divider-bolum2 .divider-bolum2-line {
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: #23120b;
+  border-radius: 1rem;
+  border-color: #23120b!important;
+  margin-left: 2rem;
+}
+.row img{
+  height: 20rem;
+}
+.contact{
+  background-color: white !important;
+}
+.divider-bolum3 {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divider-bolum3 .divider-bolum3-line {
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: #23120b;
+  border-radius: 1rem;
+  border-color: #23120b!important;
+  margin-left: 2rem;
+}
+.formlar label{
+  margin-right: 55rem;
+
+}
+.formlar input{
+  display: block;
+  width: 25rem;
+  margin-left: 3rem;
+  display: block;
+  margin-top: 1rem;
+  border-style: none none solid;
+  border-image: initial;
+  border-bottom: 1px solid rgba(109, 117, 125, 0.25);
+}
+.formlar button{
+  margin-left: -50rem;
+  background-color: #1ABC9C;
+  height:4rem;
+  width: 5rem;
+  color: white;
+  margin-bottom: 0.2rem;
+  border: none;
+}
+.formlar button:hover{
+  background-color: #23120b20;
+  color: white;
+}
+.formlar textarea{
+  display:block;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+}
+.formlar {
+  margin: 0 auto;
+  width: 80% !important;
+  color: #6D757D;
+}
+​
+.formlar input, .formlar textarea {
+  border: none;
+  border-bottom: 1px solid #6D757D40;
+  color: #6D757D;
+}
+
+.footer button{
+  margin-left: 1rem;
+  font-size: 1.5rem;
+  border-radius: 50%;
+}
+.PORTFOLIO{
+  background-color: #f9fcfb;
+}
+.CONTACT-ME{
+background-color: #f9fcfb;
+}
